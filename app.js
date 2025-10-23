@@ -1,4 +1,9 @@
-function greet(name) {
+/**
+   * Log a personalized greeting and the repeated-vowel sequences found in a sample sentence.
+   *
+   * @param {string} name - The name to include in the greeting.
+   */
+  function greet(name) {
     console.log(`Hello, ${name}!`);
   
     // Sample sentence
