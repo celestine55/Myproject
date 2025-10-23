@@ -1,0 +1,17 @@
+{
+  "name": "app-test-project",
+  "version": "1.0.0",
+  "description": "Project with comprehensive unit tests",
+  "main": "app.js",
+  "scripts": {
+    "test": "node --test",
+    "test:watch": "node --test --watch"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "js-yaml": "^4.1.0"
+  }
+}
